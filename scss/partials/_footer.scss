@@ -1,0 +1,10 @@
+@use 'colores';
+
+footer{
+    background-color: colores.$colorCelesteOscuro;
+    color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 25px;
+}
